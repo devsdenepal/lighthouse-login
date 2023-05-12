@@ -1,7 +1,7 @@
 <h1>LightHouse-Login: Login Page Brute Forcer</h1>
 <img src="https://github.com/devsdenepal/lighthouse-login/assets/111997815/5ccfd800-03ac-48e7-bf44-ebacc4a8b4e2">
 
-	<p>This is a tool for automatically and anonymously testing brute force attacks against website login pages by detecting possible inputs.</p>
+<p>This is a tool for automatically and anonymously testing brute force attacks against website login pages by detecting possible inputs.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Automatically scans the login page of a website and detects possible input fields (username, password, etc.)</li>
