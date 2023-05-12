@@ -1,4 +1,4 @@
-<h1>Login Page Brute Forcer</h1>
+<h1>LightHouse-Login: Login Page Brute Forcer</h1>
 	<p>This is a tool for automatically and anonymously testing brute force attacks against website login pages by detecting possible inputs.</p>
 	<h2>Features</h2>
 	<ul>
